@@ -6,13 +6,13 @@ This system provides distributed rate limiting capabilities to control the rate 
 *   Configurable rate limits.
 *   Integration with a main webserver.
 
-## Technologies Used
+## Frameworks/Libraries Used
 *   Python 3.9+
-*   FastAPI: Modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints.
-*   Redis: An open-source, in-memory data structure store, used as a database, cache, and message broker.
-*   Docker: Platform for developing, shipping, and running applications in containers.
-*   `httpx`: A fully featured HTTP client for Python 3, `async`/`await` ready.
-*   `aioredis`: Asynchronous Redis client for Python.
+*   FastAPI
+*   Redis
+*   Docker
+*   `httpx`
+*   `aioredis`
 
 ## Setup & Installation
 To set up and install the project, follow these steps:
