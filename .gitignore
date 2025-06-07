@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+dist/
+build/
+develop-eggs/
+.eggs/
+*.egg-info/
+.tox/
+.coverage
+.pytest_cache/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+.ruff_cache/
+.vscode/
+
+# macOS
+.DS_Store
